@@ -1,7 +1,5 @@
 ## 📌 Descrição
 
----
-
 Este repositório contém a implementação de uma atividade prática introdutória em Banco de Dados utilizando MySQL.
 
 O projeto foi desenvolvido com o objetivo de aplicar conceitos fundamentais de modelagem e manipulação de dados por meio de comandos SQL, conforme as orientações da atividade proposta.
@@ -11,8 +9,6 @@ Além disso, inclui uma lista de exercícios focada em operações JOIN, com ins
 ---
 
 ## 🛠 Recursos Utilizados
-
----
 
 Banco de Dados: MySQL
 
@@ -27,8 +23,6 @@ Plataforma de hospedagem: GitHub
 ---
 
 ## 📋 Estrutura do Projeto
-
----
 
 O projeto foi organizado seguindo os seguintes critérios:
 
@@ -47,8 +41,6 @@ Alterações estruturais com ALTER TABLE.
 ---
 
 ## 👨‍💻 Autor
-
----
 
 Marcos Antonio  
 Curso: Análise e Desenvolvimento de Sistemas  
