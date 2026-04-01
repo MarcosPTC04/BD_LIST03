@@ -6,7 +6,7 @@ O projeto foi desenvolvido com o objetivo de aplicar conceitos fundamentais de m
 
 Além disso, inclui uma lista de exercícios focada em operações JOIN, com instruções e exemplos práticos para compreender INNER JOIN, LEFT JOIN e RIGHT JOIN, auxiliando no entendimento do relacionamento entre tabelas.
 
----
+--- 
 
 ## 🛠 Recursos Utilizados
 
